@@ -1,0 +1,2 @@
+May 07, 2023 1:56:47 PM com.logger.ejb.LoggerImplementationSessionBean logErrorMessage
+SEVERE: Error when performing calculation : Division by zero is not possible
